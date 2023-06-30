@@ -5476,7 +5476,7 @@ input[type="text"]:focus {
   border: #454c56 0px solid;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -5px;
+  margin-top: -40px;
   text-align: center;
 }
 
@@ -7447,12 +7447,7 @@ input[type="text"]:focus {
   padding: 12px;
   padding-bottom: 0px !important;
   border: 1px solid #30363d;
-  box-shadow: 0 2.74416px 2.74416px rgba(0, 0, 0, 0.0274351),
-    0 5.48831px 5.48831px rgba(0, 0, 0, 0.0400741),
-    0 13.7208px 10.9766px rgba(0, 0, 0, 0.0499982),
-    0 20.5812px 20.5812px rgba(0, 0, 0, 0.0596004),
-    0 41.1623px 41.1623px rgba(0, 0, 0, 0.0709366),
-    0 96.0454px 89.1851px rgba(0, 0, 0, 0.09);
+  box-shadow: 0px 11px 2.74416px rgba(0, 0, 0, 0.0274351), 0px 1px 5.48831px rgba(0, 0, 0, 0.0400741), 0 13.7208px 10.9766px rgba(0, 0, 0, 0.0499982), 0px 14px 20.5812px rgba(0, 0, 0, 0.0596004), 0px 12px 41.1623px rgba(0, 0, 0, 0.0709366), 1px 1px 89.1851px rgba(0, 0, 0, 0.09);
 }
 
 .itemdirectory {
