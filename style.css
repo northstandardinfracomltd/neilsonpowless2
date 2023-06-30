@@ -5473,7 +5473,7 @@ input[type="text"]:focus {
   justify-content: center;
   margin: 0;
   border-radius: 0px;
-  background: linear-gradient(180deg, rgb(34 39 46), rgb(43 37 70));
+  background: rgb(43 37 70);
   border: #454c56 0px solid;
   margin-left: auto;
   margin-right: auto;
