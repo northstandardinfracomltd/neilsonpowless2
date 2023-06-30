@@ -1465,7 +1465,6 @@ body {
   color: #ffffff;
   margin: 0px !important;
   background: #2b2546 !important;
-
 }
 
 
@@ -5477,7 +5476,7 @@ input[type="text"]:focus {
   border: #454c56 0px solid;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -20px;
+  margin-top: -5px;
   text-align: center;
 }
 
