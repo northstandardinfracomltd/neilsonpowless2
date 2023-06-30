@@ -4698,8 +4698,8 @@ input::placeholder {
 .centered-div {
   padding-left: 12px;
   padding-right: 12px;
-background: linear-gradient(rgb(34, 39, 46) 0%, rgb(43, 37, 70) 20%) !important;
-  }
+background: linear-gradient(180deg, rgb(34, 39, 46) 80%, rgb(43, 37, 70)) !important;
+}
 
 .nsi-engine:hover {
   box-shadow: 0 0 0px 4px #008eff38;
