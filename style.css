@@ -7592,3 +7592,27 @@ body.blocked-page {
   padding-left: 11px;
   padding-right: 20px;
 }
+
+
+
+.containertxt2ineos {
+  display: flex;
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.columntxt2ineos {
+  flex-basis: 25%;
+  background-color: transparent;
+  padding-left: 0px;
+  padding-right: 0px;
+  height: 220px;
+  background: t;
+  cursor: pointer;
+}
+
+.columntxt2ineos:hover {
+  background: rgb(30 52 98);
+  cursor: pointer;
+}
