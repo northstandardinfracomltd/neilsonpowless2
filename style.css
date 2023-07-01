@@ -6533,6 +6533,16 @@ input[type="text"]:focus {
   cursor: pointer !important;
 }
 
+
+.serverfriendly2txt2 {
+  text-decoration: none;
+  font-size: 20px !important;
+  font-family: "genie9" !important;
+  color: #8498c1 !important;
+  line-height: 1.6;
+  cursor: default !important;
+}
+
 .serverfriendly2-link {
   text-decoration: none;
   font-size: 20px !important;
@@ -7579,5 +7589,6 @@ body.blocked-page {
 .columntxt2 {
   flex-basis: 33.33%;
   background-color: transparent;
-  padding: 20px;
+  padding-left: 11px;
+  padding-right: 20px;
 }
