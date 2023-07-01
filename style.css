@@ -7566,3 +7566,18 @@ body.privacy-page {
 body.blocked-page {
   background-color: #2d333b !important;
 }
+
+
+
+.containertxt2 {
+  display: flex;
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.columntxt2 {
+  flex-basis: 33.33%;
+  background-color: transparent;
+  padding: 20px;
+}
