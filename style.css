@@ -7607,12 +7607,19 @@ body.blocked-page {
   background-color: transparent;
   padding-left: 0px;
   padding-right: 0px;
-  height: 220px;
+  height: 225px;
   background: t;
   cursor: pointer;
+  margin-right: 10px;
+
 }
 
 .columntxt2ineos:hover {
   background: rgb(30 52 98);
   cursor: pointer;
+}
+
+
+.columntxt2ineos:last-child {
+  margin-right: 0;
 }
