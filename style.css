@@ -3429,6 +3429,30 @@ h1.tag {
   margin-right: 10px;
 }
 
+
+
+.ficusbtn-nvidiafee {
+  text-decoration: none;
+  display: inline-block !important;
+  padding: 4px 20px !important;
+  font-size: 18px !important;
+  font-weight: var(--base-text-weight-medium, 500) !important;
+  line-height: 40px !important;
+  white-space: nowrap !important;
+  vertical-align: middle !important;
+  cursor: pointer !important;
+  user-select: none !important;
+  border: 1px solid #1f6feb;
+  border-radius: 10px;
+  font-family: "Saoecom2font" !important;
+  color: #feffff !important;
+  background-color: #1f6feb !important;
+  height: 50px;
+  margin-top: 9px;
+  margin-bottom: auto;
+  margin-right: 10px;
+}
+
 .buttonalert:hover {
   text-decoration: none;
   position: relative !important;
@@ -5117,6 +5141,17 @@ input[type="text"]:focus {
   margin-right: -25px;
   margin-top: auto;
   margin-bottom: auto;
+}
+
+
+.explain2fee {
+  width: 20%;
+  z-index: 1;
+  margin-left: -3px;
+  margin-right: -25px;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: flex;
 }
 
 .explain3 {
@@ -7463,6 +7498,25 @@ input[type="text"]:focus {
 }
 
 .itemdirectory:hover {
+  background: rgb(65 132 228 / 15%);
+  border: #549bf5 1px solid;
+}
+
+
+
+.itemdirectoryfee {
+  background: #24292f;
+  display: flex;
+  height: 70px;
+  border: 1px solid #30363d;
+  border-radius: 12px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 14px;
+  width: 100%;
+}
+
+.itemdirectoryfee:hover {
   background: rgb(65 132 228 / 15%);
   border: #549bf5 1px solid;
 }
