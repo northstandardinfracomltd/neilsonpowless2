@@ -7629,6 +7629,7 @@ body.blocked-page {
 .platformtypeii {
   max-width: 360px;
   margin-right: auto;
+  margin-bottom: 30px;
     margin-left: auto;
 }
 
@@ -7666,9 +7667,9 @@ body.blocked-page {
 .sp-md-checkbox label:before {
   width: 1.25em;
   height: 1.25em;
-  background: rgb(55 62 71);
-  border: 1px solid rgb(69 78 87);
-  border-radius: 0.125em;
+  background: #22272e;
+  border: 1px dashed #ec775c7d;
+  border-radius: 10px;;
   cursor: pointer;
   transition: background .3s;
 }
@@ -7682,17 +7683,10 @@ body.blocked-page {
   font-size: inherit;
 }
 .sp-md-checkbox input[type="checkbox"]:checked + label:before {
-  background: #3676d8;
+  background: rgb(163 255 170);
   border: none;
 }
-.sp-md-checkbox input[type="checkbox"]:checked + label:after {
-  transform: translate(0.25em, 0.3365384615em) rotate(-45deg);
-  width: 0.75em;
-  height: 0.375em;
-  border: 0.125em solid #fff;
-  border-top-style: none;
-  border-right-style: none;
-}
+
 .sp-md-checkbox input[type="checkbox"]:disabled + label:before {
   border-color: rgba(0, 0, 0, 0.26);
 }
@@ -7705,6 +7699,12 @@ body.blocked-page {
 .sp-md-checkbox *:after {
   box-sizing: border-box;
 }
+
+
+
+
+
+
 
 
 
