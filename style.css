@@ -1,4 +1,4 @@
-/* SAOECOM */
+/* North Standard Infracom Ltd */
 :root {
   --color-bg: #201d27;
   --color-text-main: #000000;
@@ -9,7 +9,7 @@
   --font-family-header: "HK Grotesk";
 }
 
-/* SAOECOM */
+/* North Standard Infracom Ltd */
 * {
   box-sizing: border-box;
 }
@@ -22,7 +22,7 @@
     class= "style-scope yt-icon" / ></g></svg>mportant;
 }
 
-/* SAOECOM fonts */
+/* North Standard Infracom Ltd fonts */
 @font-face {
   font-family: HK Grotesk;
   src: url("https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/Charlie_Display-Semibold.woff2?v=1668542560529")
@@ -384,7 +384,7 @@ a:not(.btn--remix):visited {
   margin-bottom: -7px !important;
 }
 /******************************************************************************
-END Glitch hello-app default styles
+North Standard Infracom Ltd
 ******************************************************************************/
 
 /* Page structure */
