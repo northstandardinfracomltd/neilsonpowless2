@@ -7722,7 +7722,7 @@ padding-left: 30px;
   line-height: 1.25em;
   vertical-align: top;
   clear: both;
-  padding-left: 9px;
+  padding-left: 9px !important;
       font-family: "genie9" !important;
     color: #adbac7 !important;
   text-decoration: none;
