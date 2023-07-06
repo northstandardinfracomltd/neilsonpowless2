@@ -5855,7 +5855,7 @@ input[type="text"]:focus {
 @media (min-width: 100px) and (max-width: 819px) {
   .geniepost {
     text-decoration: none;
-    font-size: 52px !important;
+    font-size: 58px !important;
     cursor: default !important;
     font-family: "genie18" !important;
     color: rgb(255, 255, 255) !important;
@@ -7713,13 +7713,33 @@ padding-left: 30px;
 .sp-md-checkbox.sp-md-checkbox-inline{
   display: inline-block;
 }
+
+
+@media (min-width: 100px) and (max-width: 819px) {
 .sp-md-checkbox label {
   cursor: pointer;
   display: inline;
   line-height: 1.25em;
   vertical-align: top;
   clear: both;
-  padding-left: 20px !important;
+  padding-left: 9px;
+      font-family: "genie9" !important;
+    color: #adbac7 !important;
+  text-decoration: none;
+    font-size: 21px !important;
+}
+}
+
+
+
+
+.sp-md-checkbox label {
+  cursor: pointer;
+  display: inline;
+  line-height: 1.25em;
+  vertical-align: top;
+  clear: both;
+  padding-left: 20px;
       font-family: "genie9" !important;
     color: #adbac7 !important;
   text-decoration: none;
