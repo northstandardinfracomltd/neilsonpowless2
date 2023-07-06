@@ -5794,7 +5794,7 @@ input[type="text"]:focus {
 
 .geniepost {
   text-decoration: none;
-  font-size: 82px !important;
+  font-size: 85px !important;
   cursor: default !important;
   font-family: "genie18" !important;
   color: rgb(255, 255, 255) !important;
@@ -5805,6 +5805,7 @@ input[type="text"]:focus {
   margin-bottom: 30px;
   line-height: 62px;
   text-align: center !important;
+  white-space: nowrap;
 }
 
 @media (min-width: 820px) and (max-width: 1166px) {
@@ -5821,6 +5822,7 @@ input[type="text"]:focus {
     margin-bottom: 30px;
     line-height: 62px;
     text-align: center;
+    white-space: normal !important;
   }
 }
 
@@ -5837,6 +5839,7 @@ input[type="text"]:focus {
     margin-top: 33px;
     margin-bottom: 30px;
     line-height: 62px;
+    white-space: normal !important;
   }
 }
 
@@ -5854,6 +5857,7 @@ input[type="text"]:focus {
     margin-bottom: 30px;
     line-height: 62px;
     text-align: center !important;
+    white-space: normal !important;
   }
 }
 
