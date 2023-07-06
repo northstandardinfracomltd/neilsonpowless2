@@ -2412,7 +2412,8 @@ purpleblockswww2001 {
 
 
 input.cube1::placeholder {
-  color: red !important;
+  color: #adbac785 !important;
+  white-space: nowrap !important;
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
@@ -2482,7 +2483,7 @@ input.cube1::placeholder {
 }
 
 .cube-btn1 {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   border: 1px #1f6feb;
   border-radius: 10px 10px 10px 10px;
   /* margin-right: -2px; */
