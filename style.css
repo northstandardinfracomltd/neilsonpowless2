@@ -6548,7 +6548,7 @@ input[type="text"]:focus {
   text-decoration: none;
   font-size: 20px !important;
   font-family: "genie9" !important;
-  color: #adbac7 !important;
+  color: #c0ccd8 !important;
   line-height: 1.6;
   cursor: default !important;
 }
@@ -7601,7 +7601,8 @@ body.blocked-page {
   flex-basis: 33.33%;
   background-color: transparent;
 padding-left: 30px;
-    padding-right: 40px;
+  padding-right: 35px;
+    padding-top: 15px;
 }
 
 
