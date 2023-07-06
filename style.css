@@ -5808,10 +5808,10 @@ input[type="text"]:focus {
   white-space: nowrap;
 }
 
-@media (min-width: 820px) and (max-width: 1166px) {
+@media (min-width: 820px) and (max-width: 1266px) {
   .geniepost {
     text-decoration: none;
-    font-size: 55px !important;
+    font-size: 70px !important;
     cursor: default !important;
     font-family: "genie18" !important;
     color: rgb(255, 255, 255) !important;
