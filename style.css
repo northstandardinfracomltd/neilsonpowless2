@@ -1546,7 +1546,7 @@ footer {
 }
 
 
-@media (min-width: 100px) and (max-width: 819px) {
+@media (min-width: 100px) and (max-width: 899px) {
 .main-nav {
   display: none !important;
 }
@@ -1586,7 +1586,7 @@ footer {
 
 
 
-@media (min-width: 100px) and (max-width: 819px) {
+@media (min-width: 100px) and (max-width: 900px) {
 .mobillogoonly {
   margin-left: auto !important;
   margin-right: auto !important;
@@ -1599,7 +1599,7 @@ footer {
 }
 
 
-@media (min-width: 819px) {
+@media (min-width: 900px) {
 .mobillogoonly {
   display: none !important; 
   }
@@ -2519,7 +2519,8 @@ margin-left: auto;
   width: 90%;
 margin-left: auto;
     margin-right: auto;
-    margin-bottom: 0px;
+    margin-top: -5px;
+    margin-bottom: 15px;
   }
 }
 
@@ -4056,6 +4057,7 @@ button[type="submit"]:hover {
   margin-top: 22.5px;
   margin-bottom: 24px;
   cursor: default;
+  white-space: nowrap;
 }
 
 @media (min-width: 100px) and (max-width: 819px) {
@@ -7683,8 +7685,23 @@ padding-left: 30px;
   max-width: 360px;
   margin-right: auto;
   margin-bottom: 30px;
-    margin-left: auto;
+  margin-left: auto;
 }
+
+
+@media (min-width: 100px) and (max-width: 819px) {
+.platformtypeii {
+  
+  width: 90%;
+  max-width: 360px;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-left: auto;
+  
+}
+
+}
+
 
 
 
