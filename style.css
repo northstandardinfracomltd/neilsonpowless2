@@ -7660,7 +7660,7 @@ body.blocked-page {
   line-height: 1.25em;
   vertical-align: top;
   clear: both;
-  padding-left: 1px;
+  padding-left: 20px !important;
       font-family: "genie9" !important;
     color: #adbac7 !important;
   text-decoration: none;
@@ -7684,6 +7684,9 @@ body.blocked-page {
   cursor: pointer;
   transition: background .3s;
 }
+
+
+
 .sp-md-checkbox input[type="checkbox"] {
   outline: 0;
   visibility: hidden;
@@ -7693,6 +7696,9 @@ body.blocked-page {
   float: left;
   font-size: inherit;
 }
+
+
+
 .sp-md-checkbox input[type="checkbox"]:checked + label:before {
   background: #1c2128;
   border: none;
