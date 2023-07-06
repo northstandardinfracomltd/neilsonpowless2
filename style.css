@@ -7600,8 +7600,8 @@ body.blocked-page {
 .columntxt2 {
   flex-basis: 33.33%;
   background-color: transparent;
-  padding-left: 11px;
-  padding-right: 20px;
+padding-left: 30px;
+    padding-right: 40px;
 }
 
 
