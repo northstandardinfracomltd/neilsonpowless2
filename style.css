@@ -2406,7 +2406,13 @@ purpleblockswww2001 {
   transition-duration: 0s;
   text-transform: lowercase;
   text-align: center !important;
-  margin-bottom: 3px;
+  margin-bottom: 4px;
+  margin-top: 12px;
+}
+
+
+input.cube1::placeholder {
+  color: red !important;
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
@@ -5363,8 +5369,8 @@ input[type="text"]:focus {
   font-family: "genie9" !important;
   color: #adbac7 !important;
   line-height: 35px;
-  margin-top: 10px;
-  margin-bottom: 21px;
+  margin-top: 12px;
+  margin-bottom: 35px;
   text-align: left;
 }
 
