@@ -7893,9 +7893,3 @@ padding-left: 30px;
   transition: transform 0.12s, -webkit-transform 0.12s;
 }
 
-
-
-.pdf-container {
-  width: 100%;
-  height: 100vh;
-}
