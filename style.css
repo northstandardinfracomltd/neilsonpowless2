@@ -7893,3 +7893,117 @@ padding-left: 30px;
   transition: transform 0.12s, -webkit-transform 0.12s;
 }
 
+
+
+
+@media screen and (max-width: 980px) {
+  .alert {
+padding: 12px 20px 20px 20px !important;}
+}
+
+
+/* Style pour la barre d'alerte */
+.alert {
+padding: 20px 20px 20px 20px;
+background-color: #211d27;
+margin-bottom: 0px;
+position: fixed;
+bottom: 0;
+width: 100%;
+z-index: 1 !important;
+font-size: 16px !important;
+font-family: "Saoecom2font" !important;
+line-height: 1.3 !important;
+letter-spacing: 0.01em !important;
+color: #a28db6 !important;
+  
+  
+  background: linear-gradient(rgb(40 35 48), rgb(40 35 48)) padding-box, linear-gradient(to right, #238636, #1f6feb, #8957e5, #da3633, #bd561d);
+    border-radius: 0px;
+    border-top: 2px solid transparent;
+}
+
+.buttonalert {
+text-decoration: none;
+    position: relative !important;
+    display: inline-block !important;
+    padding: 6px 16px !important;
+    font-size: 15px !important;
+    font-weight: var(--base-text-weight-medium, 500) !important;
+    line-height: 20px !important;
+    white-space: nowrap !important;
+    vertical-align: middle !important;
+    cursor: pointer !important;
+    -webkit-user-select: none !important;
+    user-select: none !important;
+    border: 1px solid rgb(73 63 88);
+    border-radius: 6px;
+    font-family: "Saoecom2font" !important;
+    color: #c7acff !important;
+    background-color: rgb(51 45 62) !important;
+    text-align: center !important;
+}
+
+
+.buttonalert:hover {
+text-decoration: none;
+    position: relative !important;
+    display: inline-block !important;
+    padding: 6px 16px !important;
+    font-size: 15px !important;
+    font-weight: var(--base-text-weight-medium, 500) !important;
+    line-height: 20px !important;
+    white-space: nowrap !important;
+    vertical-align: middle !important;
+    cursor: pointer !important;
+    -webkit-user-select: none !important;
+    user-select: none !important;
+    border: 1px solid rgb(30 111 45);
+    border-radius: 6px;
+    font-family: "Saoecom2font" !important;
+    color: #fff !important;
+    background-color: #238636 !important;
+    text-align: center !important;
+}
+
+
+
+
+.main-nav
+{
+  position: fixed;
+  display: flex;
+  box-sizing: border-box;
+  padding: 0px;
+  top: 0; left: 0; 
+  height: 55px;
+  width: 100%;
+  justify-content: space-between;
+  background: linear-gradient(0.25turn, #4B3CC4, #27128E);
+
+}
+
+img.navlogo {
+  margin-top: -9px;
+  margin-left: 10px !important;
+}
+
+.navlogo
+{
+  line-height: 10px;
+  width: 150px !important;
+}
+
+.main-nav a
+{
+  cursor: pointer;
+  float: left;
+  list-style: none;
+  height: 0px;
+  margin-bottom: 26px !important;
+  line-height: 25px;
+  color: #dcd0ed !important;
+      font-family: "Saoecom2font" !important;
+  font-size: 15px !important;
+  letter-spacing: 0.02em !important;
+}
