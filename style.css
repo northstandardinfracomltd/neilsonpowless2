@@ -1529,61 +1529,6 @@ footer {
   }
 }
 
-.main-nav {
-  display: flex;
-  box-sizing: border-box;
-  padding: 0px;
-  top: 0;
-  left: 0;
-  height: 85px;
-  width: 100%;
-  justify-content: space-between;
-  background: #2b2546;
-  z-index: 5;
-  border-bottom: 0px solid #3b325c;
-  padding-left: 3px;
-  padding-right: 3px;
-}
-
-
-@media (min-width: 100px) and (max-width: 899px) {
-.main-nav {
-  display: none !important;
-}
-}
-
-@media (min-width: 100px) and (max-width: 819px) {
-  .main-nav {
-    display: flex;
-    box-sizing: border-box;
-    padding: 0px;
-    top: 0;
-    left: 0;
-    height: 85px;
-    width: 100%;
-    justify-content: space-between;
-    background: #2b2546;
-    z-index: 5;
-    border-bottom: 0px solid #3b325c;
-  }
-}
-
-.nav-parent {
-  width: 100%;
-  display: flex;
-  flex-flow: row wrap;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  justify-content: center;
-}
-
-.nav-left {
-  width: 20%;
-  text-align: left !important;
-  justify-content: left !important;
-}
-
 
 
 @media (min-width: 100px) and (max-width: 900px) {
@@ -1665,24 +1610,6 @@ width: 85% !importantnav-left1 {
   justify-content: right !important;
 }
 
-img.navlogo {
-margin-top: -6px;
-    margin-left: 13px !important;
-}
-
-.navlogo {
-  padding-top: 9px;
-  line-height: 10px;
-  width: 160px !important;
-  padding-left: 9px;
-}
-
-
-.navlogo:hover {
-transform: scale(1.05);
-  transition-duration: 0.2s;
-}
-
 img.ficusmedia {
   margin-top: -9px;
   margin-left: 10px !important;
@@ -1693,16 +1620,6 @@ img.ficusmedia {
   width: 150px !important;
 }
 
-.main-nav a {
-  cursor: pointer;
-  float: left;
-  list-style: none;
-  line-height: 25px;
-  color: #dcd0ed;
-  font-family: "Saoecom2font";
-  font-size: 15px;
-  letter-spacing: 0.02em;
-}
 
 .footer {
   display: flex;
@@ -6574,7 +6491,7 @@ input[type="text"]:focus {
 }
 
 .mural {
-  background: linear-gradient(180deg, rgb(43 37 70), rgb(24 42 78));
+background: rgb(49 109 202);
   color: rgb(255, 255, 255);
 }
 
@@ -7976,7 +7893,7 @@ text-decoration: none;
   box-sizing: border-box;
   padding: 0px;
   top: 0; left: 0; 
-  height: 55px;
+  height: 70px;
   width: 100%;
   justify-content: space-between;
   background: linear-gradient(0.25turn, #4B3CC4, #27128E);
