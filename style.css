@@ -1553,11 +1553,10 @@ footer {
 
 @media (min-width: 100px) and (max-width: 819px) {
 .logo {
-  margin-left: auto !important;
   margin-right: auto !important;
-  text-align: center !important;
-  justify-content: center !important;
-  text-align: center;
+  text-align: left !important;
+  justify-content: left !important;
+  text-align: left;
   display: block;
   }
 }
@@ -1743,13 +1742,13 @@ a:hover {
     vertical-align: middle !important;
     cursor: pointer !important;
     user-select: none !important;
-    border: 1px solid #9752ff;
+    border: 1px solid #46874c;
     border-radius: 10px;
     font-family: "Saoecom2font" !important;
     color: #feffff !important;
-    background-color: #8b3dff !important;
+    background-color: #347d39 !important;
     height: 50px;
-    margin-top: 9px;
+    margin-top: 13px;
     margin-bottom: auto;
     margin-right: 10px;
   
@@ -5729,7 +5728,7 @@ input[type="text"]:focus {
   margin-left: 10%;
   margin-top: 25px;
   padding-top: 260px;
-  
+    padding-bottom: 20px;
   margin-bottom: 30px;
   line-height: 62px;
   text-align: center !important;
