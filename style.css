@@ -5728,6 +5728,8 @@ input[type="text"]:focus {
   margin-right: 10%;
   margin-left: 10%;
   margin-top: 25px;
+  padding-top: 260px;
+  
   margin-bottom: 30px;
   line-height: 62px;
   text-align: center !important;
@@ -6493,6 +6495,7 @@ input[type="text"]:focus {
 .mural {
 background: rgb(49 109 202);
   color: rgb(255, 255, 255);
+  margin-top: -200px;
 }
 
 .denzudfnzeufzebfuebzfuezfbeufbef {
