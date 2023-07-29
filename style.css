@@ -1751,9 +1751,7 @@ a:hover {
     margin-top: 13px;
     margin-bottom: auto;
     margin-right: 10px;
-  
-  box-shadow: 0 0.3259259164px 0.7333333492px 0 rgba(0,0,0,.12), 0 1.5407407284px 2.8666665554px 0 rgba(0,0,0,.07), 0 4px 9px 0 rgba(0,0,0,.05);
-}
+  }
 
 .dd-button-muc {
   text-align: right;
@@ -1782,28 +1780,11 @@ a:hover {
 }
 
 .dd-button:hover {
-  display: inline-block;
-  font-family: "Saoecom2font" !important;
-  letter-spacing: 0.01em !important;
-  fill: #ffffff !important;
-  border-style: solid !important;
-  border-width: 1px 1px 1px 1px !important;
-  border-color: #c8beff78 !important;
-  position: relative;
-  padding: 5px 16px;
-  font-size: 15px;
-  font-weight: var(--base-text-weight-medium, 500);
-  line-height: 20px;
-  white-space: nowrap;
-  cursor: pointer;
-  -webkit-user-select: none;
-  user-select: none;
-  border: 1px solid rgb(240 246 252 / 10%);
-  border-radius: 6px;
-  color: #c8beff !important;
-  background-color: #5f4ac799;
-  margin-top: 12px !important;
+box-shadow: 0 0 0px 4px #008eff38;
 }
+
+
+
 
 .dd-input {
   display: none;
@@ -1812,14 +1793,14 @@ a:hover {
 .dd-menu {
   position: absolute;
   top: 100%;
-  border: 1px solid #3f3351;
+  border: 1px solid #454c56;
   border-radius: 9px;
   padding: 0;
-  color: #dcd0ed !important;
-  font-family: "Saoecom2font" !important;
-  font-size: 15px !important;
+  color: #feffff !important;
+  font-family: "genie9" !important;
+  font-size: 20px !important;
   margin: -6px 0 0 -105px;
-  background-color: #241d2e;
+  background-color: #2d333b;
   list-style-type: none;
 }
 
@@ -1835,6 +1816,9 @@ a:hover {
   padding: 17px 20px;
   cursor: pointer;
   white-space: nowrap;
+    color: #feffff !important;
+  font-family: "genie9" !important;
+  font-size: 20px !important;
 }
 
 .dd-menu li a {
@@ -1845,7 +1829,7 @@ a:hover {
 
 .dd-menu li.divider {
   padding: 9px;
-  border-bottom: 1px solid #3f3351;
+  border-bottom: 1px solid #454c56;
 }
 
 purpleblockswww2001 {
@@ -7905,7 +7889,15 @@ text-decoration: none;
 img.navlogo {
   margin-top: -9px;
   margin-left: 10px !important;
+  cursor: pointer;
 }
+
+.navlogo:hover
+{
+  transform: scale(1.05);
+
+}
+
 
 .navlogo
 {
