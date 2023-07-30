@@ -1,4 +1,4 @@
-/* North Standard Infracom Ltd */
+ody/* North Standard Infracom Ltd */
 :root {
   --color-bg: #201d27;
   --color-text-main: #000000;
@@ -1464,7 +1464,7 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #ffffff;
   margin: 0px !important;
-  background: #2b2546 !important;
+  background: #2d333b !important;
 }
 
 
@@ -7882,7 +7882,7 @@ text-decoration: none;
   height: 75px !important;
   width: 100%;
   justify-content: space-between;
-  background: #2d333b;
+  background: rgb(49 109 202);
 
 }
 
