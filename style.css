@@ -7871,7 +7871,6 @@ text-decoration: none;
 
 
 
-
 .main-nav
 {
   position: fixed;
@@ -7882,7 +7881,7 @@ text-decoration: none;
   height: 75px !important;
   width: 100%;
   justify-content: space-between;
-  background: rgb(49 109 202);
+  background: #2d333b;
 
 }
 
