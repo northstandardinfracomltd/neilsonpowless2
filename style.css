@@ -194,6 +194,53 @@ ody/* North Standard Infracom Ltd */
     format("opentype");
 }
 
+@font-face {
+  font-family: genie20;
+  font-weight: bold;
+  src: url("https://cdn.glitch.global/9d75250c-7972-4ed1-930d-d52d6a129103/antarcticanmono-medium-webfont.woff2?v=1690930756809")
+    format("opentype");
+}
+
+
+@font-face {
+  font-family: genie21;
+  font-weight: bold;
+  src: url("https://cdn.glitch.global/9d75250c-7972-4ed1-930d-d52d6a129103/TeamGBSans-Bold.woff2?v=1690930758523")
+    format("opentype");
+}
+
+
+@font-face {
+  font-family: genie22;
+  font-weight: bold;
+  src: url("https://cdn.glitch.global/9d75250c-7972-4ed1-930d-d52d6a129103/TeamGBSans-Heavy.woff2?v=1690930763117")
+    format("opentype");
+}
+
+
+@font-face {
+  font-family: genie23;
+  font-weight: bold;
+  src: url("https://cdn.glitch.global/9d75250c-7972-4ed1-930d-d52d6a129103/TeamGBSans-Medium.woff2?v=1690930765213")
+    format("opentype");
+}
+
+
+
+@font-face {
+  font-family: genie24;
+  font-weight: bold;
+  src: url("https://cdn.glitch.global/9d75250c-7972-4ed1-930d-d52d6a129103/TeamGBSans-Medium.woff2?v=1690930765213")
+    format("opentype");
+}
+
+@font-face {
+  font-family: genie25;
+  font-weight: bold;
+  src: url("https://cdn.glitch.global/9d75250c-7972-4ed1-930d-d52d6a129103/TeamGBSans-Regular.woff2?v=1690930767388")
+    format("opentype");
+}
+
 /* SAOECOM */
 .btn--remix {
   font-family: HK Grotesk;
