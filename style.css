@@ -5447,13 +5447,44 @@ input[type="text"]:focus {
   margin-right: auto;
   margin-top: 5px;
   margin-bottom: 50px;
-  border-left: 15px solid #fff;
-  border-right: 3px solid #fff;
-  border-top: 3px solid #fff;
-  border-bottom: 3px solid #fff;
-  border-radius: 6px;
+  border-left: 15px solid #817c91;
+  border-right: 2px solid #817c91;
+  border-top: 2px solid #817c91;
+  border-bottom: 2px solid #817c91;
+  border-radius: 10px;
+box-shadow: 20px -1px 2.74416px rgba(0, 0, 0, 0.0274351), -2px 11px 5.48831px rgba(0, 0, 0, 0.0400741), 0px -18px 10.9766px rgba(0, 0, 0, 0.0499982), 0px 14px 20.5812px rgba(0, 0, 0, 0.0596004), 0px 12px 41.1623px rgba(0, 0, 0, 0.0709366), -20px 0px 89.1851px rgba(0, 0, 0, 0.09);
 }
 
+
+.explatxt {
+    text-decoration: none;
+  text-align: left;
+    font-size: 20px !important;
+    font-family: "genie9" !important;
+    color: #ffffff !important;
+    line-height: 1.6;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 17px !important;
+    margin-bottom: 0px !important;
+    cursor: pointer !important;
+}
+
+
+
+.explatxt2 {
+    text-decoration: none;
+  text-align: left;
+    font-size: 20px !important;
+    font-family: "genie9" !important;
+    color: #8498c1 !important;
+    line-height: 1.6;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 17px !important;
+    margin-bottom: 0px !important;
+    cursor: pointer !important;
+}
 
 .geniecustomersexplained {
   width: 93% !important;
