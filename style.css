@@ -1778,52 +1778,30 @@ a:hover {
 }
 
 .dd-button {
-  display: inline-block;
+text-decoration: none;
+    display: inline-block !important;
+    padding: 4px 20px !important;
+    font-size: 18px !important;
+    font-weight: var(--base-text-weight-medium, 500) !important;
+    line-height: 40px !important;
+    white-space: nowrap !important;
+    vertical-align: middle !important;
+    cursor: pointer !important;
+    user-select: none !important;
+    border: 1px solid #46874c;
+    border-radius: 10px;
     font-family: "Saoecom2font" !important;
-  letter-spacing: 0.01em !important;
-    fill: #FFFFFF !important;
-    border-style: solid !important;
-    border-width: 1px 1px 1px 1px !important;
-    border-color: #c8beff3d !important;
-    position: relative;
-    padding: 5px 16px;
-  margin-right: 13px;
-    font-size: 15px;
-    font-weight: var(--base-text-weight-medium, 500);
-    line-height: 20px;
-    white-space: nowrap;
-    cursor: pointer;
-    -webkit-user-select: none;
-    user-select: none;
-    border: 1px solid rgb(240 246 252 / 10%);
-    border-radius: 6px;
-    color: #c8beff !important;
-    background-color: #3e29a6cf;
-  margin-top: 12px !important;
+    color: #feffff !important;
+    background-color: #347d39 !important;
+    height: 50px;
+    margin-top: 11px;
+    margin-bottom: auto;
+    margin-right: 10px;
 }
 
 .dd-button:hover {
   display: inline-block;
-    font-family: "Saoecom2font" !important;
-  letter-spacing: 0.01em !important;
-    fill: #FFFFFF !important;
-    border-style: solid !important;
-    border-width: 1px 1px 1px 1px !important;
-    border-color: #c8beff78 !important;
-    position: relative;
-    padding: 5px 16px;
-    font-size: 15px;
-    font-weight: var(--base-text-weight-medium, 500);
-    line-height: 20px;
-    white-space: nowrap;
-    cursor: pointer;
-    -webkit-user-select: none;
-    user-select: none;
-    border: 1px solid rgb(240 246 252 / 10%);
-    border-radius: 6px;
-    color: #c8beff !important;
-    background-color: #5f4ac799;
-  margin-top: 12px !important;
+
 }
 
 
@@ -7915,10 +7893,10 @@ text-decoration: none;
   box-sizing: border-box;
   padding: 0px;
   top: 0; left: 0; 
-  height: 55px;
+  height: 70px;
   width: 100%;
   justify-content: space-between;
-  background: linear-gradient(0.25turn, #4B3CC4, #27128E);
+  background: #008eff38;
 
 }
 
