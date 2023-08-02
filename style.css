@@ -6227,7 +6227,7 @@ input[type="text"]:focus {
   margin-top: -16px;
   padding-top: 15px;
   margin-bottom: -25px;
-  border-top: solid 1px #1e3462;
+  border-top: solid 0px transparent;
 }
 
 @media (min-width: 820px) and (max-width: 1200px) and (orientation: landscape) {
@@ -6493,7 +6493,7 @@ input[type="text"]:focus {
 }
 
 .mural {
-background: rgb(49 109 202);
+background: rgb(43 37 70);
   color: rgb(255, 255, 255);
   margin-top: -200px;
 }
