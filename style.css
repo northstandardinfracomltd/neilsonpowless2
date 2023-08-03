@@ -5787,7 +5787,7 @@ text-decoration: none;
 
 .geniepost {
   text-decoration: none;
-  font-size: 85px !important;
+  font-size: 93px !important;
   cursor: default !important;
   font-family: "genie18" !important;
   color: rgb(255, 255, 255) !important;
@@ -5797,7 +5797,7 @@ text-decoration: none;
   margin-top: 25px;
   padding-top: 260px;
     padding-bottom: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
   line-height: 62px;
   text-align: center !important;
   white-space: nowrap;
@@ -5806,7 +5806,7 @@ text-decoration: none;
 @media (min-width: 820px) and (max-width: 1266px) {
   .geniepost {
     text-decoration: none;
-    font-size: 70px !important;
+    font-size: 93px !important;
     cursor: default !important;
     font-family: "genie18" !important;
     color: rgb(255, 255, 255) !important;
@@ -8000,12 +8000,19 @@ text-decoration: none;
 img.navlogo {
   margin-top: -10px;
   margin-left: 13px !important;
+  cursor: pointer;
 }
 
 .navlogo
 {
   line-height: 10px;
   width: 145px !important;
+}
+
+
+.navlogo:hover {
+    transform: scale(1.05);
+    transition-duration: 0.2s;
 }
 
 .main-nav a
