@@ -5489,11 +5489,11 @@ text-decoration: none;
   text-align: left;
     font-size: 20px !important;
     font-family: "genie9" !important;
-    color: #8498c1 !important;
+    color: #bfb2eb !important;
     line-height: 1.6;
     margin-right: 42px;
     margin-left: 42px;
-    margin-top: 35px !important;
+    margin-top: 38px !important;
     margin-bottom: 0px !important;
     cursor: default !important;
 }
@@ -7659,6 +7659,21 @@ padding-left: 30px;
 }
 
 
+
+
+
+@media (min-width: 100px) and (max-width: 819px) {
+.columntxt2ineos:hover {
+  background: red;
+  cursor: pointer;
+}
+}
+
+
+
+
+
+
 @media (min-width: 100px) and (max-width: 819px) {
   .containertxt2ineos {
     display: block !important;
@@ -7982,14 +7997,14 @@ text-decoration: none;
 }
 
 img.navlogo {
-  margin-top: -13px;
-  margin-left: 10px !important;
+  margin-top: -10px;
+  margin-left: 15px !important;
 }
 
 .navlogo
 {
   line-height: 10px;
-  width: 115px !important;
+  width: 145px !important;
 }
 
 .main-nav a
